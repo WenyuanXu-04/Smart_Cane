@@ -3,7 +3,7 @@
 
 void setup() 
 {
-
+  samrt_cane_app_main();
 }
 
 void loop() 
